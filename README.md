@@ -17,7 +17,7 @@ El proyecto está dividido en varias secciones principales, cada una con su prop
 
 Clona el repositorio en tu máquina local.
 
-git clone https://github.com/tu-usuario/aluraplay.git
+git clone https://github.com/JJ111Sanchez/aluraplay.git
 
 
 
